@@ -1,7 +1,14 @@
+html,body{
+    padding: 0;
+    margin:0;
+    background:rgba(.1, .6, .4, .5)
+}
 #nihao{
+    
     font-size: 25px;
     color:pink;
     width:500px;
     background-color:antiquewhite;
     border-radius: 50px;
+    
 }
